@@ -1,0 +1,16 @@
+C:\Users\kayle\source\repos\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\kayle\source\repos\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\kayle\source\repos\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\kayle\source\repos\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\kayle\source\repos\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.vbproj.GenerateResource.cache
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.vb
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.vbproj.CoreCompileInputs.cache
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\kayle\source\repos\Server\obj\Debug\net8.0-windows\ref\Server.dll
