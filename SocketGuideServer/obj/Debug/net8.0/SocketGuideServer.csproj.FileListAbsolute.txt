@@ -1,0 +1,14 @@
+C:\Users\kayle\source\repos\SocketGuideServer\bin\Debug\net8.0\SocketGuideServer.exe
+C:\Users\kayle\source\repos\SocketGuideServer\bin\Debug\net8.0\SocketGuideServer.deps.json
+C:\Users\kayle\source\repos\SocketGuideServer\bin\Debug\net8.0\SocketGuideServer.runtimeconfig.json
+C:\Users\kayle\source\repos\SocketGuideServer\bin\Debug\net8.0\SocketGuideServer.dll
+C:\Users\kayle\source\repos\SocketGuideServer\bin\Debug\net8.0\SocketGuideServer.pdb
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.AssemblyInfoInputs.cache
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.AssemblyInfo.cs
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.csproj.CoreCompileInputs.cache
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.dll
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\refint\SocketGuideServer.dll
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.pdb
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\SocketGuideServer.genruntimeconfig.cache
+C:\Users\kayle\source\repos\SocketGuideServer\obj\Debug\net8.0\ref\SocketGuideServer.dll
